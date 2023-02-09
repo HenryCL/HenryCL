@@ -5,4 +5,4 @@ OLÁ! SOU HENRY CARVALHO -- DEV FRONT-END
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryCL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  ![Snake animation](https://github.com/HenryCL/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/HenryCL/HenryCL/blob/output/github-contribution-grid-snake.svg)
